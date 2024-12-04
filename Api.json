@@ -1,0 +1,29 @@
+[
+  {
+    "message": "Hello, this is the API response",
+    "status": "success",
+    "data": {
+      "id": 1,
+      "name": "Waleed Khan",
+      "address": "Katlang"
+    }
+  },
+  {
+    "message": "Hello, this is the API response",
+    "status": "success",
+    "data": {
+      "id": 1,
+      "name": "Waleed Khan",
+      "address": "Katlang"
+    }
+  },
+  {
+    "message": "Hello, this is the API response",
+    "status": "success",
+    "data": {
+      "id": 1,
+      "name": "Waleed Khan",
+      "address": "Katlang"
+    }
+  }
+]
